@@ -8,5 +8,6 @@ Ermida, S.L., Soares, P., Mantas, V., Göttsche, F.-M., Trigo, I.F., 2020.
 
 # SHAPEFILE shows SUHI intensity per Landsat pixel
 
-Cite as: Luis Orlando, Mauro Berazategui, An urban ecology primer for Montevideo: Heat island in a Latin American social-ecological context, Urban Climate,
+#Cite as:
+Luis Orlando, Mauro Berazategui, An urban ecology primer for Montevideo: Heat island in a Latin American social-ecological context, Urban Climate,
 Volume 57, 2024, 102091, ISSN 2212-0955, https://doi.org/10.1016/j.uclim.2024.102091.
